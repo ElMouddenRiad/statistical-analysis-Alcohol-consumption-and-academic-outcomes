@@ -428,8 +428,8 @@ This repository contains the complete and reproducible final version of the acad
 
 ## 👥 Auteurs
 
-**Bakr OUKESSOU** – Analyse statistique, preprocessing  
-**Riad EL MOUDDEN** – Visualisations, tests hypothèses
+**Bakr OUKESSOU**
+**Riad EL MOUDDEN**
 
 **Master:** M1 SI2A, ESISA, Fes .  
 **Année:** 2024/2025
